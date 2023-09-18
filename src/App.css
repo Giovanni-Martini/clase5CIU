@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Black+Ops+One');
+
+* {
+  background-color: rgb(17, 14, 24);
+  color: aliceblue;
+}
+
+.titulo {
+  font-family: 'Black Ops One';
+  color: aliceblue;
+  font-size: 250%;
+}
+
